@@ -1,0 +1,8 @@
+git clone <url>
+git log --stat
+git --version
+git diff <commit_id1> <commit_id2>
+git reset --hard <commit_id> # ignones all latest changes and resets to a given commit
+git commit -a -m "commit message"
+git init
+git status
